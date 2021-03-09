@@ -37,6 +37,7 @@ public class TestByConsole {
 
                 case 3:
                     addCilinder();
+                    System.out.println(ps);
                     break;
 
                 case 4:
